@@ -1,0 +1,21 @@
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\bin\Debug\TempHumd.exe.config
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\bin\Debug\TempHumd.exe
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\bin\Debug\TempHumd.pdb
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\obj\Debug\TempHumd.Form1.resources
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\obj\Debug\TempHumd.Properties.Resources.resources
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\obj\Debug\TempHumd.csproj.GenerateResource.Cache
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\obj\Debug\TempHumd.exe
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\obj\Debug\TempHumd.pdb
+C:\Users\Nurul Hasanah\Documents\Visual Studio 2015\Projects\TempHumd\TempHumd\obj\Debug\TempHumd.csprojResolveAssemblyReference.cache
+D:\PENS\TA\icang\software\TempHumd\TempHumd\bin\Debug\TempHumd.exe.config
+D:\PENS\TA\icang\software\TempHumd\TempHumd\obj\Debug\TempHumd.exe
+D:\PENS\TA\icang\software\TempHumd\TempHumd\obj\Debug\TempHumd.pdb
+D:\PENS\TA\icang\software\TempHumd\TempHumd\bin\Debug\TempHumd.exe
+D:\PENS\TA\icang\software\TempHumd\TempHumd\bin\Debug\TempHumd.pdb
+D:\PENS\TA\icang\software\TempHumd\TempHumd\obj\Debug\TempHumd.csprojResolveAssemblyReference.cache
+D:\PENS\TA\icang\software\TempHumd\TempHumd\obj\Debug\TempHumd.Form1.resources
+D:\PENS\TA\icang\software\TempHumd\TempHumd\obj\Debug\TempHumd.Properties.Resources.resources
+D:\PENS\TA\icang\software\TempHumd\TempHumd\obj\Debug\TempHumd.csproj.GenerateResource.Cache
+D:\PENS\Tugas Akhir\PA2\TempHumd\TempHumd\bin\Debug\TempHumd.exe.config
+D:\PENS\Tugas Akhir\PA2\TempHumd\TempHumd\obj\Debug\TempHumd.exe
+D:\PENS\Tugas Akhir\PA2\TempHumd\TempHumd\obj\Debug\TempHumd.pdb
